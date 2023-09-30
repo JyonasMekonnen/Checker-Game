@@ -1,1 +1,1 @@
-# Chess-Game
+# Checker-Game
