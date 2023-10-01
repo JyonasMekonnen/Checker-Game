@@ -5,6 +5,8 @@ Offered both single-player and two-player modes, allowing users to challenge the
 Demonstrated a deep understanding of game logic and algorithms, particularly in the context of Checkers.
 Utilized object-oriented programming principles to create a modular and maintainable codebase.
 Employed graphical libraries such as Pygame for an engaging and interactive gaming experience.
+
+
 Key Features:
 Single-Player Mode:
 Included a computer AI opponent with varying difficulty levels.
